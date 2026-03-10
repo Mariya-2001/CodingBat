@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class sleepin {
     public boolean sleepin(boolean weekday, boolean vacation) {
         if (!weekday || vacation){

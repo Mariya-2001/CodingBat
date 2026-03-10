@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class monkeyTrouble {
     public static void main(String[] args){
         System.out.println(monkeyTrouble(true,true));

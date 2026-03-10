@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class diff21 {
     public static int Diff21(int n)
     {

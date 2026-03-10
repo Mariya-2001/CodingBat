@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class mixStart {
     public static void main(String[] args){
         System.out.println(mixStart("mix mm"));

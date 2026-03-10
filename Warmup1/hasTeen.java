@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class hasTeen {
     public static void main(String[] args){
         System.out.println(hasTeen(13,15,17));

@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class startHi {
     public static void main(String[] args){
         System.out.println(starthi("hi there"));

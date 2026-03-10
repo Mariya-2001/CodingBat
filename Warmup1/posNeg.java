@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class posNeg {
     public static void main(String[] args){
         System.out.println(posNeg(2,-2,true));

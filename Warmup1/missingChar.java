@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class missingChar {
     public static String missingChar(String str, int n) {
         String first = str.substring(0,n);

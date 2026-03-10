@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class or35 {
     public static void main(String[] args){
         System.out.println(or35(4)); // return false

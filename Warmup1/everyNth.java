@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class everyNth {
     public static void main(String[] args){
         System.out.println(everyNth("abcdesf",2)); //acef

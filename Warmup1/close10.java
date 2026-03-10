@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class close10 {
     public static void main(String[] args){
         System.out.println(close10(8,13)); //8
